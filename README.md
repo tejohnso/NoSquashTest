@@ -1,4 +1,4 @@
 NoSquashTest
 ============
 
-Will *not* squash before merge into master.
+Will *not* squash before merge into master!
